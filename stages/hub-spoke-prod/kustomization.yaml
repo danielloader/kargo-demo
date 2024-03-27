@@ -14,5 +14,5 @@ patches:
     kind: Service
     name: kargo-demo
 images:
-- name: nginx
-  newTag: 1.25.4
+- name: ghcr.io/danielloader/kargo-demo
+  newTag: v2.0.2
