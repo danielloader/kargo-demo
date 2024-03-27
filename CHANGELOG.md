@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/danielloader/kargo-demo/compare/v1.0.0...v2.0.0) (2024-03-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* major bump
+
+### Features
+
+* major bump ([5f9402a](https://github.com/danielloader/kargo-demo/commit/5f9402ae613f1c8d50abe9909fc9d8cee85b4be4))
+
 ## 1.0.0 (2024-03-27)
 
 
