@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/danielloader/kargo-demo/compare/v2.0.1...v2.0.2) (2024-03-27)
+
+
+### Bug Fixes
+
+* image name ([12df7da](https://github.com/danielloader/kargo-demo/commit/12df7da2337d0a3344b1f77b924bb31d75667dea))
+
 ## [2.0.1](https://github.com/danielloader/kargo-demo/compare/v2.0.0...v2.0.1) (2024-03-27)
 
 
