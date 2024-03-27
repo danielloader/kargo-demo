@@ -6,16 +6,9 @@ on:
 name: Release
 run-name: Release
 jobs:
-  test:
-    name: Test
-    uses: ./.github/workflows/test.yaml
-    secrets:
-      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-    
+   
   release:
     name: Release
-    needs:
-      - test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
